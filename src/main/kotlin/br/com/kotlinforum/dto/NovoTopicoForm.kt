@@ -1,6 +1,6 @@
 package br.com.kotlinforum.dto
 
-data class NovoTopicoDto(
+data class NovoTopicoForm(
 
     val titulo: String,
     val mensagem: String,
