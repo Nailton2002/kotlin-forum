@@ -1,6 +1,6 @@
 package br.com.kotlinforum.modelo
 
-data class Curso (
+data class Curso(
 
     val id: Long? = null,
     val nome: String,
